@@ -1,5 +1,3 @@
--- Here db is considering salary column as a string 
--- rank column is not responding properly
 
 SELECT * 
 FROM 2022_forbes_billionaires;
